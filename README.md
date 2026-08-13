@@ -24,3 +24,14 @@
 - [Hello World](JavaScript/hello.js)
 - [Calculator](JavaScript/calculator.js)
 - [Palindrome](JavaScript/palindrome.js)
+
+## 📊 Program Overview
+
+| Language | Number of Programs | Difficulty |
+|----------|--------------------|------------|
+| Python | 3 | Beginner |
+| Java | 3 | Beginner |
+| JavaScript | 3 | Beginner |
+
+
+
