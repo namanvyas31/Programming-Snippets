@@ -55,7 +55,12 @@ System.out.println("Hello, World!");
 console.log("Hello, World!");
 ```
 
-You can run a Python program using `python hello.py`.
+
+## 🏅 Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 
