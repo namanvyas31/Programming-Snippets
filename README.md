@@ -67,3 +67,16 @@ console.log("Hello, World!");
 
 > Practice makes perfect. Keep learning and keep improving!
 
+## ✅ Progress
+
+- [x] Created GitHub repository
+- [x] Added Python programs
+- [x] Added Java programs
+- [x] Added JavaScript programs
+- [x] Created README.md
+- [x] Added internal links
+- [x] Added tables
+- [x] Added code blocks
+- [x] Added badges
+- [x] Added block quotes
+
