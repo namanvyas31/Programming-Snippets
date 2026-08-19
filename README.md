@@ -35,3 +35,28 @@
 
 
 
+## 💡 Code Examples
+
+### Python
+
+```python
+print("Hello, World!")
+```
+
+### Java
+
+```java
+System.out.println("Hello, World!");
+```
+
+### JavaScript
+
+```javascript
+console.log("Hello, World!");
+```
+
+You can run a Python program using `python hello.py`.
+
+
+
+
