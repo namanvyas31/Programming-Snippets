@@ -63,5 +63,7 @@ console.log("Hello, World!");
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
+## 💬 Quote
 
+> Practice makes perfect. Keep learning and keep improving!
 
